@@ -1,4 +1,4 @@
-# Multi-Theft-Auto Custom Interiors
+# Multi Theft Auto Custom Interiors
 
 
 ## Synopsis
@@ -11,7 +11,7 @@ Because Multi Theft Auto is based on code injection and hooking techniques where
 
 ## Installation
 
-Each folder is its own custom interior and can be added to any server and not be dependent on one another. Some interiors are separated into several parts and although still not dependent on each other to run they should still be implemented together.
+Each folder is its own custom interior and can be added to any server and not be dependent on one another. Some interiors are separated into several parts (in order to prevent lag) and are marked accordingly.
 
 1. Add the desired interior directory into your server at the location MTA/server/mods/deathmatch/resources. 
 
