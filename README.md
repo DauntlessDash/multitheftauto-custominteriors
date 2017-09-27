@@ -1,5 +1,5 @@
 # Multi-Theft-Auto Custom Interiors
----
+
 
 ## Synopsis
 
@@ -13,13 +13,13 @@ Because Multi Theft Auto is based on code injection and hooking techniques where
 
 Each folder is its own custom interior and can be added to any server and not be dependent on one another. Some interiors are separated into several parts and although still not dependent on each other to run they should still be implemented together.
 
-* Add the desired interior directory into your server at the location MTA/server/mods/deathmatch/resources. 
+1. Add the desired interior directory into your server at the location MTA/server/mods/deathmatch/resources. 
 
-* Open the _interiorname_.map file within the interior's folder and change all dimension values to desired [dimension](https://wiki.multitheftauto.com/wiki/Dimension).
+2. Open the _interiorname_.map file within the interior's folder and change all dimension values to desired [dimension](https://wiki.multitheftauto.com/wiki/Dimension).
 
-*Start your server and run the resource from the resource manager.
+3. Start your server and run the resource from the resource manager.
 
-*Use the coordinates contained within the _interiorname_.map to teleport players to the location of the interior using your desired method.
+4. Use the coordinates contained within the _interiorname_.map to teleport players to the location of the interior using your desired method.
 
 
 ## How These Interiors Prevent Falling and Trapped Player Errors
