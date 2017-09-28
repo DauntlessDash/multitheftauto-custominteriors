@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-This project serves as a demonstration of the best method I have discovered for constructing different types of custom interior maps for Multi Theft Auto servers. [Multi Theft Auto](http://www.multitheftauto.com/) (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. Custom interiors allow servers to turn buildings that cannot me entered in the exterior world of San Andreas into buildings that their players can go inside of and utilize. 
+This project serves as a demonstration of the best method I have discovered for constructing different types of custom interior maps for Multi Theft Auto servers. [Multi Theft Auto](http://www.multitheftauto.com/) (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. Custom interiors allow servers in MTA to turn buildings that cannot me entered in the exterior world of San Andreas into buildings that their players can go inside of and utilize. 
 
 ## Motivation
 
